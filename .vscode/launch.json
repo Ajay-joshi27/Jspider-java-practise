@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringNumber",
+            "request": "launch",
+            "mainClass": "StringNumber",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
             "name": "PerfectNumber",
             "request": "launch",
             "mainClass": "PerfectNumber",
