@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
             "name": "StringNumber",
             "request": "launch",
             "mainClass": "StringNumber",
