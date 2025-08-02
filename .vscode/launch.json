@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "practise.GCD",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "ReverseANumber",
+            "request": "launch",
+            "mainClass": "practise.ReverseANumber",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "Pallindrome",
+            "request": "launch",
+            "mainClass": "practise.Pallindrome",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "fibonaccci",
+            "request": "launch",
+            "mainClass": "practise.fibonaccci",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumber",
             "request": "launch",
             "mainClass": "practise.PrimeNumber",
