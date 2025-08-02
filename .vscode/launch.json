@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "practise.PrimeNumber",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumber",
+            "request": "launch",
+            "mainClass": "practise.PerfectNumber",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "StrongNumber",
+            "request": "launch",
+            "mainClass": "practise.StrongNumber",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "practise.Armstrong",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "spyNumber",
+            "request": "launch",
+            "mainClass": "practise.spyNumber",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumberRange",
             "request": "launch",
             "mainClass": "PrimeNumberRange",
