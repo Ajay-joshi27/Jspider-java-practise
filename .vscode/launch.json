@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AutomorphicNumbers",
+            "request": "launch",
+            "mainClass": "practise.AutomorphicNumbers",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "NumberPattern1",
+            "request": "launch",
+            "mainClass": "patternPrinting.NumberPattern1",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "patternPrinting.test1",
+            "projectName": "Jspider java practise_802808a5"
+        },
+        {
+            "type": "java",
             "name": "GCD",
             "request": "launch",
             "mainClass": "practise.GCD",
